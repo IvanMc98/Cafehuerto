@@ -1,5 +1,5 @@
 <?php
-define('URL','https://tiendacafeapp.herokuapp.com/');
+//define('URL','https://tiendacafeapp.herokuapp.com/');
 define('HOST', 'ec2-52-5-1-20.compute-1.amazonaws.com');
 define('DB', 'd9kea0lq3eg1pv'); 
 define('USER', 'caysuraaffnjba');
